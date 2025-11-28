@@ -216,8 +216,3 @@ kali-network-lab/
   ![Kali eth0 configuration output](screenshots/Screenshot 2025-11-28 at 4.28.06 PM.png)
   ![Kali eth0_Config.txt contents](screenshots/Screenshot 2025-11-28 at 4.37.37 PM.png)
   ```
-
----
-
-This draft will keep growing as more lab steps and screenshots are added.  
-When you are ready, you can rename this file to `README.md` and push it to your GitHub repo.
